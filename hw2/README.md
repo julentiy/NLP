@@ -1,5 +1,6 @@
-1 - preprocess textual data
-2 - vectorization
-
-Useful? https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/
-Useful? https://www.kaggle.com/ogvilli/sentiment-analysis-trainig-model
+1 - preprocess textual data done
+2 - vectorization done
+3 - model building done
+4 - prediction done
+5 - evaluation done
+Final notebook is "task_1_fin.ipynb".
